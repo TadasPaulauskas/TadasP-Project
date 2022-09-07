@@ -1,4 +1,4 @@
-# ReadMe for TadasP Project
+# README for TadasP Project
 ## Table of contents
 * [General info](#general-info)
 * [Setup](#setup)
