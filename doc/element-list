@@ -1,0 +1,9 @@
+lt.codeacademy.tadasproject
+lt.codeacademy.tadasproject.controller
+lt.codeacademy.tadasproject.model
+lt.codeacademy.tadasproject.repository
+lt.codeacademy.tadasproject.repository.projection
+lt.codeacademy.tadasproject.security
+lt.codeacademy.tadasproject.security.jwt
+lt.codeacademy.tadasproject.service
+lt.codeacademy.tadasproject.utils
