@@ -12,9 +12,8 @@ Tadas P. project
 
 ## Setup
 
-To run Backend part of project, install it locally using npm:
-Using *Eclipse IDE*, 
-use: **Run as -> Spring Boot App**,
+To run Backend part of project, use *Eclipse IDE*, 
+run: **Run as -> Spring Boot App**,
 For frontend part, open *Visual Studio Code*, navigate to projects **frontend** directory, open Terminal:
 
 ```
